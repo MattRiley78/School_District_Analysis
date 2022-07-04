@@ -44,3 +44,4 @@ Additional analysis of the data shows:
 ![STypeAfter](https://user-images.githubusercontent.com/106561880/177211575-6fee7bed-96c4-41fb-8bbf-dea8381a9d48.png)
 
 ## Summary
+Removing the scores from the 9th grade class at Thomas High School only marginally changed their scores and did not affect their overall ranking in the school district.  As noted, their Average Math Score, Passing Math percentage, Passing Reading percentage, and Overall percentage went down slightly.  Average Reading Scores were not affected in the overall district and actually improved at THS.  With this information, if there was academic dishonesty with the 9th grade class at THS, it is likely it resulted from isolated incidents from within the class and not systemic of the entire grade.
