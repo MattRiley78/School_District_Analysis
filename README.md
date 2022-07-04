@@ -29,7 +29,7 @@ Additional analysis of the data shows:
 4. **Math and Reading Scores by Grade:** Other grades were not affected.  9th grade scores for THS were removed.
 ![MBGBefore](https://user-images.githubusercontent.com/106561880/177211401-d19e5f68-e2e0-449f-b2be-3ca43cb42c94.png)![MBGAfter](https://user-images.githubusercontent.com/106561880/177211407-48ebafb8-73a2-4606-8bb5-3720afe1f17a.png)
 
-![RBGBefore](https://user-images.githubusercontent.com/106561880/177211422-2c209b83-b1c6-4749-a94a-c76ce31f6675.png)![RBGAfter](https://user-images.githubusercontent.com/106561880/177211433-91fc579d-81fb-49d6-9afb-86ef93574b61.png)
+   ![RBGBefore](https://user-images.githubusercontent.com/106561880/177211422-2c209b83-b1c6-4749-a94a-c76ce31f6675.png)![RBGAfter](https://user-images.githubusercontent.com/106561880/177211433-91fc579d-81fb-49d6-9afb-86ef93574b61.png)
 
 5. **Spending Ranges:** Spending Ranges per student were largely unaffected.
 ![SSumBefore](https://user-images.githubusercontent.com/106561880/177211335-5a1e7441-8620-4553-aa73-c2b1184a6585.png)
