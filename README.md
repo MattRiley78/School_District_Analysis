@@ -28,6 +28,7 @@ Additional analysis of the data shows:
 
 4. **Math and Reading Scores by Grade:** Other grades were not affected.  9th grade scores for THS were removed.
 ![MBGBefore](https://user-images.githubusercontent.com/106561880/177211401-d19e5f68-e2e0-449f-b2be-3ca43cb42c94.png)![MBGAfter](https://user-images.githubusercontent.com/106561880/177211407-48ebafb8-73a2-4606-8bb5-3720afe1f17a.png)
+
 ![RBGBefore](https://user-images.githubusercontent.com/106561880/177211422-2c209b83-b1c6-4749-a94a-c76ce31f6675.png)![RBGAfter](https://user-images.githubusercontent.com/106561880/177211433-91fc579d-81fb-49d6-9afb-86ef93574b61.png)
 
 5. **Spending Ranges:** Spending Ranges per student were largely unaffected.
@@ -38,7 +39,7 @@ Additional analysis of the data shows:
 ![SSizeBefore](https://user-images.githubusercontent.com/106561880/177211548-aaf63f83-a723-4cac-93a2-b40084870fba.png)
 ![SSizeAfter](https://user-images.githubusercontent.com/106561880/177211555-ffd7638f-210b-43b0-aaa3-3eba5df16b5f.png)
 
-7/ **School Type:** Average Scores and Passing Percentages were largely unaffected.
+7. **School Type:** Average Scores and Passing Percentages were largely unaffected.
 ![STypeBefore](https://user-images.githubusercontent.com/106561880/177211566-e08cc631-10af-456d-8db9-b9d46177275b.png)
 ![STypeAfter](https://user-images.githubusercontent.com/106561880/177211575-6fee7bed-96c4-41fb-8bbf-dea8381a9d48.png)
 
